@@ -8,7 +8,7 @@ But wait, there’s more! I have turned my Smartie-eating into a science. I know
 The input will contain 10 test cases. Each test case will start with N lines (50≤N≤200), where each line holds the color of a single Smartie in lower case.  Your program should output a single line for each test case indicating how long (in seconds) it will take me to eat the entire box according to the rules given above. Note that the sample input below only contains 1 test case, but the real data files will contain 10.
  
 ## SAMPLE INPUT (only one test case)
-red
+red 
 brown
 brown
 violet
